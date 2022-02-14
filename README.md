@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **www.w3schools.com**
 
-- 📫 How to reach me **subhajitkar426@gmail.com**
+- 📫 My Email Id **subhajitkar426@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
