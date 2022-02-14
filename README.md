@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, MySelf Subhajit</h1>
+<h1 align="center">Hi 👋, I'm Subhajit Kar</h1>
 <h3 align="center">A Web developer.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajitsk" alt="subhajitsk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fighterop_" target="blank"><img src="https://img.shields.io/twitter/follow/fighterop_?logo=twitter&style=for-the-badge" alt="fighterop_" /></a> </p>
 
