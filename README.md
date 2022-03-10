@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, MySelf Subhajit Kar</h1>
+<h1 align="center">Hi 👋, MySelf Subhajit</h1>
 <h3 align="center">A Web developer.</h3>
 
 - 🌱 I’m currently learning **CSS**
