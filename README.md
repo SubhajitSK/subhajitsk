@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, Myself Subhajit Kar</h1>
 <h3 align="center">A student.</h3>
 
-- 🔭 I’m currently working on **Backend**
+- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/3264/3264753.png" height="17" width="17" /> &ensp;I’m currently working on **Backend** </a>
 
-- 🌱 I’m currently learning **Python**
+- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/9304/9304577.png" height="17" width="17" /> &ensp;currently learning **Python** </a>
 
-- 👨‍💻 All of my projects are available in [www.github.com](www.github.com)
+- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/4661/4661361.png" height="17" width="17" /> &ensp;All of my projects are available in [www.github.com](www.github.com) </a>
 
-- 💬 Ask me about **www.w3schools.com**
+- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" height="17" width="17" /> &ensp;Ask me about **www.w3schools.com** </a>
 
-- 📫 How to reach me **subhajitkar416@gmail.com**
+- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/3264/3264753.png" height="17" width="17" /> &ensp;How to reach me **subhajitkar416@gmail.com** </a>
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fighterop_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="@fighterop_" height="30" width="40" /></a>
 <a href="https://fb.com/subhajitsk11" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="subhajitsk11" height="30" width="40" /></a>
