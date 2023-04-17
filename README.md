@@ -3,7 +3,7 @@
 
 - <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/3264/3264753.png" height="17" width="17" /> &ensp;I’m currently working on **Backend** </a>
 
-- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/9304/9304577.png" height="17" width="17" /> &ensp;currently learning **Python** </a>
+- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/9304/9304577.png" height="17" width="17" /> &ensp;currently learning **React.js** </a>
 
 - <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/4661/4661361.png" height="17" width="17" /> &ensp;All of my projects are available in [www.github.com](www.github.com) </a>
 
