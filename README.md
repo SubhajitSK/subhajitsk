@@ -15,10 +15,10 @@
 
 <h3 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" height="20" width="20" /> Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@fighterop_" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="@fighterop_" height="30" width="40" /></a>
+<a href="https://twitter.com/@fighterop_" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="@fighterop_" height="30" width="30" /></a>
 <a href="https://fb.com/subhajitsk11" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="subhajitsk11" height="30" width="40" /></a>
-<a href="https://instagram.com/fighterop_" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="fighterop_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fighterop11" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" alt="fighterop11" height="30" width="40" /></a>
+<a href="https://instagram.com/fighterop_" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="fighterop_" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/fighterop11" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" alt="fighterop11" height="30" width="30" /></a>
 </p>
 
 <h3 align="left"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6214/6214248.png" height="20" width="20" /> Languages i know little bit: </h3>
