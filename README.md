@@ -6,7 +6,7 @@ In addition to my skills as a web developer, I pride myself on being a good prog
 
 ## Technologies
 
-Here are some of the technologies and tools that I'm proficient in:
+### Here are some of the programming languages and tools that I'm proficient in:
 
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/javascript.png"/> <p>JavaScript</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/react-native.png"/> <p> React</p>
@@ -21,7 +21,7 @@ Here are some of the technologies and tools that I'm proficient in:
 
 ## Skills
 
-Here are some of my key skills:
+### Here are some of my key skills:
 
 - Strong eye for design and attention to detail :mag_right:
 - Ability to work independently and as part of a team :busts_in_silhouette:
