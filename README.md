@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Myself Subhajit Kar</h1>
 <h3 align="center">A student.</h3>
 
-- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/3264/3264753.png" height="17" width="17" /> &ensp;I’m currently working on **Backend** </a>
+- <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/3264/3264753.png" height="17" width="17" /> &ensp;I’m currently working on **BitcoinHub** </a>
 
 - <a><img align="center" src="https://cdn-icons-png.flaticon.com/512/9304/9304577.png" height="17" width="17" /> &ensp;currently learning **React.js** </a>
 
