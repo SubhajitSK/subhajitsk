@@ -12,7 +12,7 @@ In addition to my skills as a web developer, I pride myself on being a good prog
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/react-native.png"/> <p> React</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/html-5.png"/> <p> HTML5</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/css3.png"/> <p> CSS3</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/mysql-logo.png"/> <p> MySQL</p>
+<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/mongodb.png"/> <p>MongoDB</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/nodejs.png"/> <p> Node.js</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/><p> C++</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/python.png"/> <p> Python</p>
