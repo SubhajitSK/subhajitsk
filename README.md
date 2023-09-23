@@ -30,6 +30,6 @@ In addition to my skills as a web developer, I pride myself on being a good prog
 ## Contact
 
 If you're interested in working with me or have any questions, feel free to reach out to me at [subhajitkar416@gmail.com](subhajitkar416@gmail.com).
-Additionally, www.subhajit-portfolio.me to learn more about my work and experience.
+Additionally, [My-Portfolio](www.subhajit-portfolio.me) to learn more about my work and experience.
 
 Thanks for visiting my profile, and I look forward to the opportunity to collaborate on exciting new projects.
