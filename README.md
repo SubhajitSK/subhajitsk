@@ -16,7 +16,8 @@ In addition to my skills as a web developer, I pride myself on being a good prog
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/mongodb.png"/> <p>MongoDB</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/><p> C++</p>
 <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/amazon-web-services.png"/> <p> AWS</p>
-<img align="left" width="20" height="20" src="https://user-images.githubusercontent.com/98410041/234077925-a47830b5-7c01-429a-8241-f1f9322dd911.png"/> <p> Git</p>
+<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/git.png"/> <p> Git</p>
+<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/tailwindcss.png"/> <p> Tailwind CSS</p>
 
 ## Skills
 
