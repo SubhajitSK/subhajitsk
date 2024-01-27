@@ -6,18 +6,19 @@ In addition to my skills as a web developer, I pride myself on being a good prog
 
 ## Technologies
 
-### Here are some of the programming languages and tools that I'm proficient in:
+|   |   |
+|---|---|
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/nodejs.png"/> | Node.js |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/react-native.png"/> | React |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/javascript.png"/> | JavaScript |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/html-5.png"/> | HTML5 |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/css3.png"/> | CSS3 |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/tailwindcss.png"/> | Tailwind CSS |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/mongodb.png"/> | MongoDB |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/> | C++ |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/amazon-web-services.png"/> | AWS |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/git.png"/> | Git |
 
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/nodejs.png"/> <p> Node.js</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/react-native.png"/> <p> React</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/javascript.png"/> <p>JavaScript</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/html-5.png"/> <p> HTML5</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/css3.png"/> <p> CSS3</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/tailwindcss.png"/> <p> Tailwind CSS</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/mongodb.png"/> <p>MongoDB</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/><p> C++</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/amazon-web-services.png"/> <p> AWS</p>
-<img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/git.png"/> <p> Git</p>
 
 ## Skills
 
