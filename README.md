@@ -9,7 +9,7 @@ In addition to my skills as a web developer, I pride myself on being a good prog
 |   |   |
 |---|---|
 | <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/nodejs.png"/> | Node.js |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/react-native.png"/> | React |
+| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/react-native.png"/> | React.js |
 | <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/javascript.png"/> | JavaScript |
 | <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/html-5.png"/> | HTML5 |
 | <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/css3.png"/> | CSS3 |
