@@ -4,21 +4,22 @@ Welcome to my profile! I am a proficient web developer and programmer, specializ
 
 In addition to my web development skills, I take pride in being a conscientious programmer. I firmly believe that producing clean, efficient, and well-documented code is paramount to the success of any project. As a dedicated problem solver, I relish the opportunity to tackle complex coding challenges, even though I am currently in the early stages of gaining practical experience.
 
-## Technologies
+<h2 align="center">⚡ Languages-Frameworks-Tools ⚡</h2>
+<br/>
 
-|   |   |
-|---|---|
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/nodejs.png"/> | Node.js |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/react-native.png"/> | React.js |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/javascript.png"/> | JavaScript |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/html-5.png"/> | HTML5 |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/css3.png"/> | CSS3 |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/tailwindcss.png"/> | Tailwind CSS |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/mongodb.png"/> | MongoDB |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/> | C++ |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/amazon-web-services.png"/> | AWS |
-| <img align="left" width="20" height="20" src="https://img.icons8.com/color/2x/git.png"/> | Git |
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,cpp,nodejs,bootstrap" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vite,express,mongodb,postgres,aws,git,ae,pr,github,nginx" /><br>
+</div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align=center>
+  <img width=490 src="https://streak-stats.demolab.com/?user=SubhajitSK&theme=react" alt="streak stats"/>
+  <br>
+  <img width=490 src="https://github-readme-stats-salesp07.vercel.app/api?username=SubhajitSK&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
 
 ## Skills
 
