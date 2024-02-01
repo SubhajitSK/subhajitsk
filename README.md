@@ -1,8 +1,8 @@
 # Hello, Myself Subhajit Kar, a Web developer!
 
-Welcome to my profile! I'm a skilled web developer and programmer with experience in designing and developing websites and software applications that are both functional and visually appealing. I have a passion for creating beautiful and dynamic user interfaces, and I'm dedicated to staying up-to-date with the latest web technologies and programming languages.
+Welcome to my profile! I am a proficient web developer and programmer, specializing in the design and development of functional and visually appealing websites and software applications. My expertise lies in crafting beautiful and dynamic user interfaces, driven by a passion for staying abreast of the latest web technologies and programming languages.
 
-In addition to my skills as a web developer, I pride myself on being a good programmer. I believe that writing clean, efficient, and well-documented code is essential to creating successful projects. I'm a strong problem solver and enjoy tackling complex coding challenges.
+In addition to my web development skills, I take pride in being a conscientious programmer. I firmly believe that producing clean, efficient, and well-documented code is paramount to the success of any project. As a dedicated problem solver, I relish the opportunity to tackle complex coding challenges, even though I am currently in the early stages of gaining practical experience.
 
 ## Technologies
 
