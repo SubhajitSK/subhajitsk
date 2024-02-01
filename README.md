@@ -16,9 +16,9 @@ In addition to my web development skills, I take pride in being a conscientious 
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=SubhajitSK&theme=react" alt="streak stats"/>
+  <img width=450 src="https://streak-stats.demolab.com/?user=SubhajitSK&theme=react" alt="streak stats"/>
   <br>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SubhajitSK&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=450 src="https://github-readme-stats-salesp07.vercel.app/api?username=SubhajitSK&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 ## Skills
