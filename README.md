@@ -1,39 +1,52 @@
-# Hello, Myself Subhajit Kar, a Web developer!
+<h1 align="center">Hey, I'm Subhajit Kar 👋</h1>
 
-I am a proficient web developer and programmer, specializing in the design and development of functional and visually appealing websites. My expertise lies in crafting beautiful and dynamic user interfaces, driven by a passion for staying abreast of the latest web technologies and programming languages.
+<p align="center">
+  <b>Full-Stack Web Developer &amp; UI Engineer</b><br/>
+  <sub>Crafting clean, efficient web experiences with a strong eye for design.<br/>Passionate about modern stacks, well-documented code, and solving complex UI challenges.</sub>
+</p>
 
-In addition to my web development skills, I take pride in being a conscientious programmer. I firmly believe that producing clean, efficient, and well-documented code is paramount to the success of any project. As a dedicated problem solver, I relish the opportunity to tackle complex coding challenges, even though I am currently in the early stages of gaining practical experience.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Focused-orange?style=flat-square" />
+</p>
 
-<h2 align="center">⚡ Languages-Frameworks-Tools ⚡</h2>
-<br/>
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,cpp,nodejs,bootstrap" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=vite,express,mongodb,postgres,aws,git,ae,pr,github,nginx" /><br>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,cpp,vite" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,nginx,git,github,ae,pr" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+---
 
-<div align=center>
-  <img width=450 src="https://streak-stats.demolab.com/?user=SubhajitSK&theme=react" alt="streak stats"/>
-  <br>
-  <img width=450 src="https://github-readme-stats-salesp07.vercel.app/api?username=SubhajitSK&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="440" src="https://streak-stats.demolab.com/?user=SubhajitSK&theme=react" alt="GitHub streak stats" />
+  <br/><br/>
+  <img width="440" src="https://github-readme-stats-salesp07.vercel.app/api?username=SubhajitSK&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub readme stats" />
 </div>
 
-## Skills
+---
 
-### Here are some of my key skills:
+## 🧠 What I Bring
 
-- Strong eye for design and attention to detail :mag_right:
-- Ability to work independently and as part of a team :busts_in_silhouette:
-- Ability to write clean and efficient code :pencil2:
-- Strong knowledge of web development best practices :bulb:
+| | |
+|---|---|
+| 👁️ **Design eye** — Strong attention to detail and visual consistency across every component. | 💻 **Clean code** — Efficient, readable, and well-documented across every project. |
+| 🤝 **Team player** — Comfortable working solo or collaborating in cross-functional teams. | 💡 **Problem solver** — Enjoys tackling complex challenges with creative, pragmatic solutions. |
 
-## Contact
+---
 
-If you're interested in working with me or have any questions, feel free to reach out to me at [subhajitkar416@gmail.com](subhajitkar416@gmail.com).
+## 📬 Let's Build Something Together
 
-Additionally, [My-Portfolio](https://subhajit-portfolio.me) to learn more about my work and experience.
+I'm always open to exciting collaborations and new opportunities.
 
-Thanks for visiting my profile, and I look forward to the opportunity to collaborate on exciting new projects.
+- 📧 Email: [subhajitkar416@gmail.com](mailto:subhajitkar416@gmail.com)
+- 🌐 Portfolio: [subhajit-portfolio.me](https://subhajit-portfolio.me)
+
+> *Thanks for stopping by — I look forward to building something great together!*
